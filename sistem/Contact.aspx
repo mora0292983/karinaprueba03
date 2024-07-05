@@ -16,4 +16,5 @@
             <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
         </address>
     </main>
+    <asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
 </asp:Content>
